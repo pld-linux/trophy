@@ -8,7 +8,8 @@ Group:		X11/Applications/Games
 Source0:	http://dl.sourceforge.net/trophy/%{name}-%{version}-src.tar.gz
 # Source0-md5:	45a8c6eec9ab5d110660a32416d1ec8f
 URL:		http://trophy.sourceforge.net/
-BuildRequires:	ClanLib-devel >= 0.7.0
+BuildRequires:	ClanLib-devel >= 0.6.0
+BuildRequires:	ClanLib-devel < 0.7.0
 BuildRequires:	OpenGL-devel
 BuildRequires:	autoconf
 BuildRequires:	automake
