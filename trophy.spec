@@ -1,5 +1,5 @@
 Summary:	2D car racing action game
-Summary(pl.UTF-8):   Dwuwymiarowa gra w wyścigi samochodowe
+Summary(pl.UTF-8):	Dwuwymiarowa gra w wyścigi samochodowe
 Name:		trophy
 Version:	1.1.3
 Release:	1
