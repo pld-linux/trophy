@@ -1,5 +1,5 @@
 Summary:	2D car racing action game
-Summary(pl):	Dwuwymiarowa gra w wy∂cigi samochodowe
+Summary(pl.UTF-8):   Dwuwymiarowa gra w wy≈õcigi samochodowe
 Name:		trophy
 Version:	1.1.3
 Release:	1
@@ -25,10 +25,10 @@ TROPHY is a 2D car racing action game for Linux. There are many extras
 which are... er... 'untypical' for racing games. So you can shoot at
 other players for example.
 
-%description -l pl
-TROPHY to dwuwymiarowa gra w wy∂cigi samochodowe dla Linuksa. Ma wiele
-dodatkÛw, ktÛre s±... hm... nietypowe dla wy∂cigÛw. Moøna na przyk≥ad
-strzelaÊ do innych graczy.
+%description -l pl.UTF-8
+TROPHY to dwuwymiarowa gra w wy≈õcigi samochodowe dla Linuksa. Ma wiele
+dodatk√≥w, kt√≥re sƒÖ... hm... nietypowe dla wy≈õcig√≥w. Mo≈ºna na przyk≈Çad
+strzelaƒá do innych graczy.
 
 %prep
 %setup -q -n %{name}-%{version}-src
